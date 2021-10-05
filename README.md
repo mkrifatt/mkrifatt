@@ -1,6 +1,6 @@
 <h2>Hi There, I'm Kudrat Ullah Rifat <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+<img align='right' src='https://github.com/mkrifatt/mkrifatt/blob/e322107c75e5ebd08f5f8c9caa8dc08971a5d730/code.gif' width='200"'>
 
 I am a Web developer from Dhaka, Bangladesh. I'm currently doing B.sc in Computer Science & Engineering.  
 I'm hardworking and always looking for opportunities to learn new technologies. As a current CS student, I like to put my IT / Programming knowledge to fetch out quality output to needed IT sector, openSource or company.
