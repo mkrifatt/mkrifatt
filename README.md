@@ -22,9 +22,9 @@ I'm hardworking and always looking for opportunities to learn new technologies. 
 
 
 ## Languages, Frameworks & Tools
-<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">|<img title="Keras" alt="Keras" width="40px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
-">|<img title="Docker" alt="Docker" width="40px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+<img title="JavaScript" alt="JavaScript" width="40px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">|<img title="C" alt="C" width="40px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+">|<img title="C++" alt="C++" width="40px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+">|<img title="Python" alt="Python" width="40px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
+">|<img title="PHP" alt="PHP" width="40px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 ">
 |--|--|--|--|--|
