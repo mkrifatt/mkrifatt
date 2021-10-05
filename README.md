@@ -24,5 +24,5 @@ I'm hardworking and always looking for opportunities to learn new technologies. 
 ## Languages, Frameworks & Tools
 
 <img title="JavaScript" alt="JavaScript" width="40px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">|<img title="C" alt="C" width="40px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-">|
+">
 |--||--|
