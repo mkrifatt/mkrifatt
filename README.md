@@ -1,4 +1,3 @@
-<img align='center' src='https://github.com/mkrifatt/mkrifatt/blob/de6f9e4dc3ed701a153e1f893a757c259e18712f/javascript.gif'>
 ## Hi There, I'm [Kudrat Ullah Rifat!](https://mkrifatt.github.io/)  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <img align='right' src='https://github.com/mkrifatt/mkrifatt/blob/de6f9e4dc3ed701a153e1f893a757c259e18712f/programmer.gif' width='250'>
