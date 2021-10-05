@@ -34,6 +34,6 @@ I'm hardworking and always looking for opportunities to learn new technologies. 
 
 ## Overview
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkrifatt)](https://github.com/mkrifatt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkrifatt&layout=compact&theme=tokyonight)](https://github.com/mkrifatt/github-readme-stats)
 
 [![Rifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkrifatt&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/iamparves/github-readme-stats)
