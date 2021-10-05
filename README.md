@@ -10,6 +10,16 @@ I'm hardworking and always looking for opportunities to learn new technologies. 
   <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kudrat-ullah-3bb958222/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+## Projects I'm the most proud of
+
+| Name            | Description                                                          | Language      | Repo                                                             |
+| --------------- | -------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------- |
+| Interclip       | A clipboard and file sharing tool                                    | PHP           | [aperta-principium/Interclip](https://s.trnck.dev/interclip-git) |
+| Open Sauced     | 🍕 This is a project to identify your next open source contribution. | JS / React.js | [open-sauced/open-sauced](https://s.trnck.dev/sauced-git)        |
+| gitpy           | A Python wrapper for git                                             | Python        | [filiptronicek/gitpy](https://s.trnck.dev/gitpy)                 |
+| Dataset Creator | Simple Flickr Image Scraper and compression script                   | Python        | [filiptronicek/dataset-creator](https://s.trnck.dev/a831c)       |
+
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
