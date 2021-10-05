@@ -22,3 +22,4 @@ I'm hardworking and always looking for opportunities to learn new technologies. 
 
 
 ## Languages, Frameworks & Tools
+<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|
