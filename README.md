@@ -16,7 +16,7 @@ I'm hardworking and always looking for opportunities to learn new technologies. 
 | Name            | Description                                                          | Language      | Repo                                                             |
 | --------------- | -------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------- |
 | EagleSoft       | IT solution web-application                                          | JS / React.js | [eagleSoft-client](https://github.com/mkrifatt/eagleSoft-client) / [eagleSoft-server](https://github.com/mkrifatt/eagleSoft-server) |
-| Bazar Shodai     | 🍕 This is a e-commerce website                                     | JS / React.js | [bazar-shodai-client](https://github.com/mkrifatt/bazar-shodai-client) / [bazar-shodai-server](https://github.com/mkrifatt/bazar-shodai-server) / |
+| Bazar Shodai    | This is a e-commerce website                                         | JS / React.js | [bazar-shodai-client](https://github.com/mkrifatt/bazar-shodai-client) / [bazar-shodai-server](https://github.com/mkrifatt/bazar-shodai-server) / |
 | BD-Rider           | Ride sharing web-application                                      | JS / React.js | [mkrifatt/bd-riders](https://github.com/mkrifatt/bd-riders)   |
 | Team-Tracker       | Track football related data                                       | JS / React.js | [mkrifatt/team-tracker](https://github.com/mkrifatt/team-tracker)   |
 
