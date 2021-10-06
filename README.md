@@ -15,10 +15,9 @@ I'm hardworking and always looking for opportunities to learn new technologies. 
 
 | Name            | Description                                                          | Language      | Repo                                                             |
 | --------------- | -------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------- |
-| EagleSoft       | IT solution web-application                                          | JS / React.js | [eagleSoft-client](https://github.com/mkrifatt/eagleSoft-client) / [eagleSoft-server](https://github.com/mkrifatt/eagleSoft-server)|
-| Open Sauced     | 🍕 This is a project to identify your next open source contribution. | JS / React.js | [open-sauced/open-sauced](https://s.trnck.dev/sauced-git)        |
-| gitpy           | A Python wrapper for git                                             | Python        | [filiptronicek/gitpy](https://s.trnck.dev/gitpy)                 |
-| Dataset Creator | Simple Flickr Image Scraper and compression script                   | Python        | [filiptronicek/dataset-creator](https://s.trnck.dev/a831c)       |
+| EagleSoft       | IT solution web-application                                          | JS / React.js | [eagleSoft-client](https://github.com/mkrifatt/eagleSoft-client) / [eagleSoft-server](https://github.com/mkrifatt/eagleSoft-server) |
+| Bazar Shodai     | 🍕 This is a e-commerce website                                     | JS / React.js | [bazar-shodai-client](https://github.com/mkrifatt/bazar-shodai-client) / [bazar-shodai-server](https://github.com/mkrifatt/bazar-shodai-server) / |
+| BD-Rider           | Ride sharing web-application                                      | JS / React.js | [mkrifatt/bd-riders](https://github.com/mkrifatt/bd-riders)   |
 
 
 ## Languages, Frameworks & Tools :muscle:
