@@ -2,8 +2,7 @@
 
 <img align='right' src='https://github.com/mkrifatt/mkrifatt/blob/de6f9e4dc3ed701a153e1f893a757c259e18712f/programmer.gif' width='250'>
 
-I am a Web developer from Dhaka, Bangladesh. I'm currently doing B.sc in Computer Science & Engineering.  
-I'm hardworking and always looking for opportunities to learn new technologies. As a current CS student, I like to put my IT / Programming knowledge to fetch out quality output to needed IT sector, openSource or company.
+私は幼い頃から日本とITに強い関心を持ち、現在はICT専門学校で情報工学を学んでいます。   学業の傍ら、フリーランスとしてWordPressやReact.jsを用いたWeb開発に携わり、ユーザー認証機能やダッシュボード構築などを実装してきました。   さらに、コンビニでのアルバイト経験を通じて、チームワークや責任感を養いました。   将来は、データ構造やアルゴリズムの知識を活かし、社会に役立つWebアプリケーションの開発に貢献したいと考えています。
 <p align="left">
   <a href="mailto:kudrat.ullah.rifat@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/kudrat.ullahrifat"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
